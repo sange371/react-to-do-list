@@ -1,0 +1,59 @@
+ul{
+    list-style: none;
+}
+h1{
+    font-size:50px;
+    
+}
+.input{
+    padding:15px;
+    width:600px;
+    border:1px solid purple;
+    border-radius:4px; 
+    background-color: rgb(254, 212, 254);
+    color:black
+
+   
+}
+body{
+    background-color: lavenderblush;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.button{
+    padding:15px;
+    margin-left:8px;
+    width:100px;
+    background-color:plum;
+    border:1px solid purple;
+    border-radius:4px;
+    margin-bottom:50px;
+}
+.list-container{
+    margin:90px auto;
+    padding-bottom:20px;
+}
+
+li{
+    justify-content:space-evenly;
+    align-items:center;
+    display:flex;
+    border:1px solid purple;
+    border-radius:4px;
+    width:450px;
+    margin:10px auto ;
+    background-color:rgb(254, 212, 254);
+    padding:8px 10px;
+    font-size:18px;
+}
+
+.checkbox{
+    transform: scale(1.6);
+    accent-color: hotpink;
+    margin-right:10px;
+}
+
+.delete-btn{
+    margin-left:10px;
+}
